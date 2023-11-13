@@ -11,10 +11,11 @@ E-com Application
 
 ### Local Development Setup
 
-1. Clone the repository
+1. Clone the repository using git clone or Github CLI
 
 ```bash
 git clone https://github.com/AbdulAbdullah/ecommerce.git
+gh repo clone AbdulAbdullah/ecommerce
 ```
 
 

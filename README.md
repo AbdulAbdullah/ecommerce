@@ -14,7 +14,7 @@ E-com Application
 1. Clone the repository
 
 ```bash
-git clone git@github.com:
+git clone https://github.com/AbdulAbdullah/ecommerce.git
 ```
 
 
